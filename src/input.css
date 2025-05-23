@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
+
+.radial__color{
+    background:radial-gradient(circle at center,#fff ,rgb(153, 123, 224), #e07b7b);
+}
